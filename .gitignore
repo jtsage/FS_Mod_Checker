@@ -4,3 +4,5 @@ build/
 testFolder/
 dist/FS19_Mod-Checker.zip
 .vscodecounter/
+node_modules/
+out/
