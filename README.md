@@ -4,6 +4,8 @@
 
 This little program will take a look at your mod install folder and inform you of what it finds.
 
+## This program is dead - try the new version https://github.com/FSGModding/FSG_Mod_Assistant
+
 ## What this does
 
 This program provides lots of information.
